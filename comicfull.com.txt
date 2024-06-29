@@ -1,0 +1,837 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>truyện tranh đam mỹ,truyện tranh trung quốc,truyện tranh hàn quốc,truyện tranh vn,đọc truyện tranh online full</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
+	<meta name="keywords" content="Truyện tranh, Truyen tranh online, Đọc truyện tranh, Truyện tranh hot, Truyện tranh hay, Truyện ng&ocirc;n t&igrave;nh" />	
+	<meta name="description" content="Website truyện tranh “ComicFull” cung cấp cho bạn: Truyện tranh khoa học viễn tưởng mới nhất,truyện tranh trung quốc,truyện tranh hàn quốc,truyện tranh vn,truyện tranh Nhật Bản,truyện tranh đam mỹ,đọc truyện tranh online full" />	
+	<meta property="twitter:url" content="https://www.comicfull.com/"/>
+	<meta name="twitter:title" content="truyện tranh&nbsp;đam mỹ,truyện tranh trung quốc,truyện tranh h&agrave;n quốc,truyện tranh&nbsp;vn,đọc&nbsp;truyện tranh&nbsp;online full"/>
+	<meta name="twitter:description" content="Website truyện tranh “ComicFull” cung cấp cho bạn: Truyện tranh khoa học viễn tưởng mới nhất,truyện tranh trung quốc,truyện tranh hàn quốc,truyện tranh vn,truyện tranh Nhật Bản,truyện tranh đam mỹ,đọc truyện tranh online full"/>
+	<meta name="twitter:site" content="https://www.comicfull.com/">
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:image" content="https://img.comicfull.com/default/loadimg.png"/>	
+	<meta property="og:site_name" content="ComicFull">
+	<meta property="og:title" content="truyện tranh&nbsp;đam mỹ,truyện tranh trung quốc,truyện tranh h&agrave;n quốc,truyện tranh&nbsp;vn,đọc&nbsp;truyện tranh&nbsp;online full">
+	<meta property="og:url" content="https://www.comicfull.com/">	
+	<meta property="og:type" content="album">
+	<meta property="og:image" content="https://img.comicfull.com/default/loadimg.png">
+	<meta property="og:description" content="Website truyện tranh “ComicFull” cung cấp cho bạn: Truyện tranh khoa học viễn tưởng mới nhất,truyện tranh trung quốc,truyện tranh hàn quốc,truyện tranh vn,truyện tranh Nhật Bản,truyện tranh đam mỹ,đọc truyện tranh online full">
+	<link rel="Shortcut Icon" type="image/ico" href="/favicon.ico" />
+	<link rel="apple-touch-icon" href="/favicon.ico" /> 
+	<link rel="canonical" href="https://www.comicfull.com/" />
+	<script type="text/javascript" src="/template/default/js/jquery.min.js" ></script>	
+	<script type="text/javascript" src="/template/default/js/jquery.lazyload.js"></script>
+		
+	<script type="text/javascript" src="/template/default/js/public.js"></script>	
+	<link href="/template/default/css/style.css" rel="stylesheet">
+	<link href="/template/default/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/template/default/css/bootstrap.css" rel="stylesheet">	
+	<script>
+	$(document).ready(function() {
+		$("img.lazy_img").lazyload();
+		$(".shme").click(function() {
+			$(".mm").toggleClass("shwx");
+		});
+		$(".srcmob").click(function() {
+			$(".minmb").toggleClass("minmbx");
+		});
+	});
+	</script>
+</head>
+
+<body>
+<div class="mainholder">
+<div class="th">
+	<div class="centernav bound">
+		<div class="shme">
+			<i class="fa fa-bars" aria-hidden="true">
+			</i>
+		</div>
+		<header role="banner" >
+			<div class="site-branding logox">
+				<span class="logos">
+					<a href="/">
+						<img src="/logo.png" alt="ComicFull">
+					</a>
+				</span>					
+			</div>
+		</header>
+		
+		<div class="searchx minmb">
+			<form action="/search.html" id="form" method="get" >
+				<input id="s" class="search-live" type="text" placeholder="Nhập tên truyện" name="keyword" autocomplete="off">					
+				<button type="submit" id="submit">
+					<i class="fas fa-search" >
+					</i>
+				</button>
+				<div class="srcmob srccls">
+					<i class="fas fa-times-circle"></i>
+				</div>
+			</form>
+		</div>
+		<div class="srcmob">
+			<i class="fas fa-search" >
+			</i>
+		</div>		
+		<nav id="main-menu" class="mm">
+			<span >
+				<ul id="menu-menu" class="menu">
+					<li class="menu-item ">
+						<a href="/" class="active">Trang đầu</a>
+					</li>
+										<li class="menu-item ">
+						<a href="/albums/dammy.html"  >
+							truyện tranh&nbsp;đam mỹ						</a>
+					</li>
+										<li class="menu-item ">
+						<a href="/albums/trungquoc.html"  >
+							truyện tranh trung quốc						</a>
+					</li>
+										<li class="menu-item ">
+						<a href="/albums/hanquoc.html"  >
+							truyện tranh h&agrave;n quốc						</a>
+					</li>
+										<li class="menu-item ">
+						<a href="/albums/vn.html"  >
+							truyện tranh&nbsp;vn						</a>
+					</li>
+										<li  class="menu-item ">
+						<a href="/tags.html" >Thể loại</a>
+					</li>
+					<li  class="menu-item ">
+						<a href="/ranking/hits.html" >Bảng xếp hạng.</a>
+						<ul class="sub-menu">
+							<li  class="menu-item ">
+								<a href="/ranking/hits.html" >
+									Tổng số xếp hạng									
+								</a>
+							</li>
+							<li  class="menu-item ">
+								<a href="/ranking/hits_day.html" >
+									Xếp hạng hàng ngày									
+								</a>
+							</li>
+							<li  class="menu-item ">
+								<a href="/ranking/hits_week.html" >
+									Tuần xếp hạng									
+								</a>
+							</li>
+							<li  class="menu-item ">
+								<a href="/ranking/hits_month.html" >
+									Hàng tháng xếp hạng									
+								</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</span>
+			<div class="clear">
+			</div>
+		</nav>
+	</div>
+	
+	<div class="clear">
+	</div>
+</div>
+
+
+<div id="content">
+<div class="wrapper">
+	<div class="hotslid">
+		
+	</div>
+	<div class="postbody full">
+		<div id="content" style="margin-top:0;margin-bottom:15px;padding:0px 20px;">
+	<div class="tag-hot tag-block">
+					<a href="/tag/14.html" class="btn btn-sm tag-block" title="Ecchi" style="padding: 3px 5px;">Ecchi</a>		
+					<a href="/tag/6.html" class="btn btn-sm tag-block" title="Romance" style="padding: 3px 5px;">Romance</a>		
+					<a href="/tag/43.html" class="btn btn-sm tag-block" title="BoyLove" style="padding: 3px 5px;">BoyLove</a>		
+					<a href="/tag/20.html" class="btn btn-sm tag-block" title="Manhwa" style="padding: 3px 5px;">Manhwa</a>		
+					<a href="/tag/15.html" class="btn btn-sm tag-block" title="Slice of Life" style="padding: 3px 5px;">Slice of Life</a>		
+					<a href="/tag/5.html" class="btn btn-sm tag-block" title="Martial Arts" style="padding: 3px 5px;">Martial Arts</a>		
+					<a href="/tag/11.html" class="btn btn-sm tag-block" title="manga" style="padding: 3px 5px;">manga</a>		
+					<a href="/tag/22.html" class="btn btn-sm tag-block" title="Supernatural" style="padding: 3px 5px;">Supernatural</a>		
+					<a href="/tag/17.html" class="btn btn-sm tag-block" title="Manhua" style="padding: 3px 5px;">Manhua</a>		
+					<a href="/tag/13.html" class="btn btn-sm tag-block" title="Comedy" style="padding: 3px 5px;">Comedy</a>		
+					<a href="/tag/4.html" class="btn btn-sm tag-block" title="Harem" style="padding: 3px 5px;">Harem</a>		
+					<a href="/tag/28.html" class="btn btn-sm tag-block" title="Psychological" style="padding: 3px 5px;">Psychological</a>		
+					<a href="/tag/2.html" class="btn btn-sm tag-block" title="Adventure" style="padding: 3px 5px;">Adventure</a>		
+					<a href="/tag/27.html" class="btn btn-sm tag-block" title="Sports" style="padding: 3px 5px;">Sports</a>		
+					<a href="/tag/8.html" class="btn btn-sm tag-block" title="Drama" style="padding: 3px 5px;">Drama</a>		
+					<a href="/tag/37.html" class="btn btn-sm tag-block" title="Truyện scan" style="padding: 3px 5px;">Truyện scan</a>		
+					<a href="/tag/10.html" class="btn btn-sm tag-block" title="Historical" style="padding: 3px 5px;">Historical</a>		
+					<a href="/tag/12.html" class="btn btn-sm tag-block" title="Tragedy" style="padding: 3px 5px;">Tragedy</a>		
+					<a href="/tag/45.html" class="btn btn-sm tag-block" title="16+" style="padding: 3px 5px;">16+</a>		
+					<a href="/tag/39.html" class="btn btn-sm tag-block" title="Soft Yaoi" style="padding: 3px 5px;">Soft Yaoi</a>		
+					<a href="/tag/24.html" class="btn btn-sm tag-block" title="Adult" style="padding: 3px 5px;">Adult</a>		
+					<a href="/tag/35.html" class="btn btn-sm tag-block" title="Magic" style="padding: 3px 5px;">Magic</a>		
+					<a href="/tag/30.html" class="btn btn-sm tag-block" title="Sci-fi" style="padding: 3px 5px;">Sci-fi</a>		
+					<a href="/tag/3.html" class="btn btn-sm tag-block" title="Fantasy" style="padding: 3px 5px;">Fantasy</a>		
+					<a href="/tag/7.html" class="btn btn-sm tag-block" title="Seinen" style="padding: 3px 5px;">Seinen</a>		
+					<a href="/tag/41.html" class="btn btn-sm tag-block" title="Soft Yuri" style="padding: 3px 5px;">Soft Yuri</a>		
+					<a href="/tag/29.html" class="btn btn-sm tag-block" title="One Shot" style="padding: 3px 5px;">One Shot</a>		
+					<a href="/tag/19.html" class="btn btn-sm tag-block" title="School Life" style="padding: 3px 5px;">School Life</a>		
+					<a href="/tag/16.html" class="btn btn-sm tag-block" title="Shoujo" style="padding: 3px 5px;">Shoujo</a>		
+					<a href="/tag/31.html" class="btn btn-sm tag-block" title="Gender Bender" style="padding: 3px 5px;">Gender Bender</a>		
+					<a href="/tag/36.html" class="btn btn-sm tag-block" title="Yaoi" style="padding: 3px 5px;">Yaoi</a>		
+					<a href="/tag/34.html" class="btn btn-sm tag-block" title="Mecha" style="padding: 3px 5px;">Mecha</a>		
+					<a href="/tag/26.html" class="btn btn-sm tag-block" title="Horror" style="padding: 3px 5px;">Horror</a>		
+					<a href="/tag/33.html" class="btn btn-sm tag-block" title="Josei" style="padding: 3px 5px;">Josei</a>		
+					<a href="/tag/18.html" class="btn btn-sm tag-block" title="Mystery" style="padding: 3px 5px;">Mystery</a>		
+					<a href="/tag/32.html" class="btn btn-sm tag-block" title="Smut" style="padding: 3px 5px;">Smut</a>		
+					<a href="/tag/44.html" class="btn btn-sm tag-block" title="Truyện 18+" style="padding: 3px 5px;">Truyện 18+</a>		
+					<a href="/tag/21.html" class="btn btn-sm tag-block" title="Webtoon" style="padding: 3px 5px;">Webtoon</a>		
+					<a href="/tag/23.html" class="btn btn-sm tag-block" title="Shounen" style="padding: 3px 5px;">Shounen</a>		
+					<a href="/tag/1.html" class="btn btn-sm tag-block" title="Action" style="padding: 3px 5px;">Action</a>		
+			</div>
+</div>
+		<div class="bixbox">
+			<div class="releases">
+				<h1>Đọc truyện tranh miễn phí</h1>
+				
+			</div>
+			<div class="listupd">
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/203.html" title="Isekai de Saikyo Mao no Kodomotachi no Mama ni Natchaimashita">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/pnpsx0dwiym.jpg" class="lazy_img " title="Isekai de Saikyo Mao no Kodomotachi no Mama ni Natchaimashita" alt="Isekai de Saikyo Mao no Kodomotachi no Mama ni Natchaimashita" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/203.html" title="Isekai de Saikyo Mao no Kodomotachi no Mama ni Natchaimashita">
+									Isekai de Saikyo Mao no Kodomotachi no Mama ni Natchaimashita								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/29098.html">I Became The Mother Of The Strongest Demon Lord's 10 Children In Another World Chương 39</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/3.html" class="tag">Fantasy</a>
+													<a href="/tag/8.html" class="tag">Drama</a>
+													<a href="/tag/13.html" class="tag">Comedy</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/202.html" title="Chillin Different World Life Of The Ex-Brave Candidate Was Cheat From Lv2">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/yuyjj11fkup.jpg" class="lazy_img " title="Chillin Different World Life Of The Ex-Brave Candidate Was Cheat From Lv2" alt="Chillin Different World Life Of The Ex-Brave Candidate Was Cheat From Lv2" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/202.html" title="Chillin Different World Life Of The Ex-Brave Candidate Was Cheat From Lv2">
+									Chillin Different World Life Of The Ex-Brave Candidate Was Cheat From Lv2								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/29151.html">Chương 47.5</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/2.html" class="tag">Adventure</a>
+													<a href="/tag/3.html" class="tag">Fantasy</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/201.html" title="Qu&aacute;i Th&uacute;">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/gvqwkhcadxl.jpg" class="lazy_img " title="Qu&aacute;i Th&uacute;" alt="Qu&aacute;i Th&uacute;" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/201.html" title="Qu&aacute;i Th&uacute;">
+									Qu&aacute;i Th&uacute;								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/29183.html">Chương 32</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/1.html" class="tag">Action</a>
+													<a href="/tag/8.html" class="tag">Drama</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+													<a href="/tag/22.html" class="tag">Supernatural</a>
+													<a href="/tag/26.html" class="tag">Horror</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/200.html" title="Tr&ograve; Chơi Song Tr&ugrave;ng">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/ehinjq4b54d.jpg" class="lazy_img " title="Tr&ograve; Chơi Song Tr&ugrave;ng" alt="Tr&ograve; Chơi Song Tr&ugrave;ng" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/200.html" title="Tr&ograve; Chơi Song Tr&ugrave;ng">
+									Tr&ograve; Chơi Song Tr&ugrave;ng								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/29230.html">Chương 51</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/19.html" class="tag">School Life</a>
+													<a href="/tag/20.html" class="tag">Manhwa</a>
+													<a href="/tag/21.html" class="tag">Webtoon</a>
+													<a href="/tag/26.html" class="tag">Horror</a>
+													<a href="/tag/28.html" class="tag">Psychological</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/199.html" title="Tr&ugrave;ng Sinh Chuy&ecirc;n Sủng Độc Phi Của Nhiếp Ch&iacute;nh Vương">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/vry0b3cipx2.jpg" class="lazy_img " title="Tr&ugrave;ng Sinh Chuy&ecirc;n Sủng Độc Phi Của Nhiếp Ch&iacute;nh Vương" alt="Tr&ugrave;ng Sinh Chuy&ecirc;n Sủng Độc Phi Của Nhiếp Ch&iacute;nh Vương" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/199.html" title="Tr&ugrave;ng Sinh Chuy&ecirc;n Sủng Độc Phi Của Nhiếp Ch&iacute;nh Vương">
+									Tr&ugrave;ng Sinh Chuy&ecirc;n Sủng Độc Phi Của Nhiếp Ch&iacute;nh Vương								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/29292.html">Chương 62</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/6.html" class="tag">Romance</a>
+													<a href="/tag/17.html" class="tag">Manhua</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/198.html" title="Hương vị t&igrave;nh y&ecirc;u 2">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/mtfym0rhkhj.jpg" class="lazy_img " title="Hương vị t&igrave;nh y&ecirc;u 2" alt="Hương vị t&igrave;nh y&ecirc;u 2" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/198.html" title="Hương vị t&igrave;nh y&ecirc;u 2">
+									Hương vị t&igrave;nh y&ecirc;u 2								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/29328.html">Coffee And Vanilla Black Chương 31</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/6.html" class="tag">Romance</a>
+													<a href="/tag/8.html" class="tag">Drama</a>
+													<a href="/tag/16.html" class="tag">Shoujo</a>
+													<a href="/tag/32.html" class="tag">Smut</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/197.html" title="[Manhwa] How To Chase An Alpha?">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/byvo2utzweg.jpg" class="lazy_img " title="[Manhwa] How To Chase An Alpha?" alt="[Manhwa] How To Chase An Alpha?" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/197.html" title="[Manhwa] How To Chase An Alpha?">
+									[Manhwa] How To Chase An Alpha?								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/30743.html">[Manhwa] How To Chase An Omega Special 1</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/20.html" class="tag">Manhwa</a>
+													<a href="/tag/36.html" class="tag">Yaoi</a>
+													<a href="/tag/43.html" class="tag">BoyLove</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/195.html" title="Fukushuu Kansuisha No Jinsei Nishuume Isekaitan">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/wzr4cm0bzj2.jpg" class="lazy_img " title="Fukushuu Kansuisha No Jinsei Nishuume Isekaitan" alt="Fukushuu Kansuisha No Jinsei Nishuume Isekaitan" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/195.html" title="Fukushuu Kansuisha No Jinsei Nishuume Isekaitan">
+									Fukushuu Kansuisha No Jinsei Nishuume Isekaitan								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26513.html">Chương 22</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/1.html" class="tag">Action</a>
+													<a href="/tag/2.html" class="tag">Adventure</a>
+													<a href="/tag/3.html" class="tag">Fantasy</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/194.html" title="Sekiro Side Story: Hanbei The Undying">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/xyxd5ksg2rc.jpg" class="lazy_img " title="Sekiro Side Story: Hanbei The Undying" alt="Sekiro Side Story: Hanbei The Undying" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/194.html" title="Sekiro Side Story: Hanbei The Undying">
+									Sekiro Side Story: Hanbei The Undying								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26521.html">Chương 8</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/2.html" class="tag">Adventure</a>
+													<a href="/tag/5.html" class="tag">Martial Arts</a>
+													<a href="/tag/8.html" class="tag">Drama</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+													<a href="/tag/22.html" class="tag">Supernatural</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/193.html" title="Vậy Để T&ocirc;i Giết Ch&uacute;ng Thay Cậu Nh&eacute;?">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/gt1gmuohbjl.jpg" class="lazy_img " title="Vậy Để T&ocirc;i Giết Ch&uacute;ng Thay Cậu Nh&eacute;?" alt="Vậy Để T&ocirc;i Giết Ch&uacute;ng Thay Cậu Nh&eacute;?" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/193.html" title="Vậy Để T&ocirc;i Giết Ch&uacute;ng Thay Cậu Nh&eacute;?">
+									Vậy Để T&ocirc;i Giết Ch&uacute;ng Thay Cậu Nh&eacute;?								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26579.html">Chương 57</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/7.html" class="tag">Seinen</a>
+													<a href="/tag/8.html" class="tag">Drama</a>
+													<a href="/tag/18.html" class="tag">Mystery</a>
+													<a href="/tag/28.html" class="tag">Psychological</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/192.html" title="Urasekai Picnic">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/1c54pft1vbk.jpg" class="lazy_img " title="Urasekai Picnic" alt="Urasekai Picnic" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/192.html" title="Urasekai Picnic">
+									Urasekai Picnic								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26630.html">Chương 50</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/1.html" class="tag">Action</a>
+													<a href="/tag/2.html" class="tag">Adventure</a>
+													<a href="/tag/3.html" class="tag">Fantasy</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+													<a href="/tag/18.html" class="tag">Mystery</a>
+													<a href="/tag/26.html" class="tag">Horror</a>
+													<a href="/tag/30.html" class="tag">Sci-fi</a>
+													<a href="/tag/41.html" class="tag">Soft Yuri</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/191.html" title="Hana To Kuchizuke.">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/3w5v44ofzmk.jpg" class="lazy_img " title="Hana To Kuchizuke." alt="Hana To Kuchizuke." >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/191.html" title="Hana To Kuchizuke.">
+									Hana To Kuchizuke.								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26655.html">Chương 22</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/6.html" class="tag">Romance</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+													<a href="/tag/16.html" class="tag">Shoujo</a>
+													<a href="/tag/19.html" class="tag">School Life</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/190.html" title="T&ocirc;i Đ&atilde; T&aacute;i Sinh Th&agrave;nh B&eacute; C&aacute;o Của Thần">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/yrmfyo1poku.jpg" class="lazy_img " title="T&ocirc;i Đ&atilde; T&aacute;i Sinh Th&agrave;nh B&eacute; C&aacute;o Của Thần" alt="T&ocirc;i Đ&atilde; T&aacute;i Sinh Th&agrave;nh B&eacute; C&aacute;o Của Thần" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/190.html" title="T&ocirc;i Đ&atilde; T&aacute;i Sinh Th&agrave;nh B&eacute; C&aacute;o Của Thần">
+									T&ocirc;i Đ&atilde; T&aacute;i Sinh Th&agrave;nh B&eacute; C&aacute;o Của Thần								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26709.html">Chương 55</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/20.html" class="tag">Manhwa</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/189.html" title="Isekai Cheat Magic Swordsman">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/acx4x3c0zbx.jpg" class="lazy_img " title="Isekai Cheat Magic Swordsman" alt="Isekai Cheat Magic Swordsman" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/189.html" title="Isekai Cheat Magic Swordsman">
+									Isekai Cheat Magic Swordsman								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26224.html">Chương 28.2</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/1.html" class="tag">Action</a>
+													<a href="/tag/2.html" class="tag">Adventure</a>
+													<a href="/tag/4.html" class="tag">Harem</a>
+													<a href="/tag/6.html" class="tag">Romance</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+													<a href="/tag/23.html" class="tag">Shounen</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/188.html" title="Dekoboko majo No Oyakojijo">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/cn5yc133lld.jpg" class="lazy_img " title="Dekoboko majo No Oyakojijo" alt="Dekoboko majo No Oyakojijo" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/188.html" title="Dekoboko majo No Oyakojijo">
+									Dekoboko majo No Oyakojijo								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26252.html">Chương 21.6</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/8.html" class="tag">Drama</a>
+													<a href="/tag/13.html" class="tag">Comedy</a>
+													<a href="/tag/16.html" class="tag">Shoujo</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/219.html" title="Ta Nu&ocirc;i Quỷ Ở Trấn Ma Ty">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240623/n2pe3pq2yvg.jpg" class="lazy_img " title="Ta Nu&ocirc;i Quỷ Ở Trấn Ma Ty" alt="Ta Nu&ocirc;i Quỷ Ở Trấn Ma Ty" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/219.html" title="Ta Nu&ocirc;i Quỷ Ở Trấn Ma Ty">
+									Ta Nu&ocirc;i Quỷ Ở Trấn Ma Ty								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/30310.html">Chương 306</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/3.html" class="tag">Fantasy</a>
+													<a href="/tag/9.html" class="tag">Xuy&ecirc;n Kh&ocirc;ng</a>
+													<a href="/tag/17.html" class="tag">Manhua</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/187.html" title="Shingeki No Eroko-san">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/my1d4smllsr.jpg" class="lazy_img " title="Shingeki No Eroko-san" alt="Shingeki No Eroko-san" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/187.html" title="Shingeki No Eroko-san">
+									Shingeki No Eroko-san								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26305.html">Chương 48</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/7.html" class="tag">Seinen</a>
+													<a href="/tag/11.html" class="tag">manga</a>
+													<a href="/tag/13.html" class="tag">Comedy</a>
+													<a href="/tag/14.html" class="tag">Ecchi</a>
+													<a href="/tag/15.html" class="tag">Slice of Life</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/186.html" title="Kanzen Kaihi Healer No Kiseki">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/iwu5nreityl.jpg" class="lazy_img " title="Kanzen Kaihi Healer No Kiseki" alt="Kanzen Kaihi Healer No Kiseki" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/186.html" title="Kanzen Kaihi Healer No Kiseki">
+									Kanzen Kaihi Healer No Kiseki								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26329.html">Chương 23.1</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/1.html" class="tag">Action</a>
+													<a href="/tag/2.html" class="tag">Adventure</a>
+													<a href="/tag/3.html" class="tag">Fantasy</a>
+													<a href="/tag/13.html" class="tag">Comedy</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/184.html" title="Trường Học Th&ocirc;i Mi&ecirc;n">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/1e24soas123.jpg" class="lazy_img " title="Trường Học Th&ocirc;i Mi&ecirc;n" alt="Trường Học Th&ocirc;i Mi&ecirc;n" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/184.html" title="Trường Học Th&ocirc;i Mi&ecirc;n">
+									Trường Học Th&ocirc;i Mi&ecirc;n								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26424.html">Chương 70</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/1.html" class="tag">Action</a>
+													<a href="/tag/13.html" class="tag">Comedy</a>
+													<a href="/tag/15.html" class="tag">Slice of Life</a>
+													<a href="/tag/20.html" class="tag">Manhwa</a>
+													<a href="/tag/22.html" class="tag">Supernatural</a>
+												</div>
+					</div>
+				</div>
+							<div class="bs styletere stylefiv">
+					<div class="bsx">
+						<a href="/album/183.html" title="Cuộc Sống Thứ Hai Của Nh&agrave; Sản Xuất">
+							<div class="limit">
+								<div class="ply">								
+								</div>								
+								<img src="https://img.comicfull.com/default/loadimg.png" data-original="https://img.comicfull.com/comic/20240622/buvfnzab5in.jpg" class="lazy_img " title="Cuộc Sống Thứ Hai Của Nh&agrave; Sản Xuất" alt="Cuộc Sống Thứ Hai Của Nh&agrave; Sản Xuất" >
+								
+							</div>
+						</a>
+						
+						<div class="bigor">
+							<div class="tt">
+								<a href="/album/183.html" title="Cuộc Sống Thứ Hai Của Nh&agrave; Sản Xuất">
+									Cuộc Sống Thứ Hai Của Nh&agrave; Sản Xuất								</a>
+							</div>
+							<div class="epxs">								
+								
+								<a id="authorIndex" href="/chapter/26489.html">Chương 65</a> 	
+														</div>
+						</div>
+						<div id="tagIndex">
+													<a href="/tag/15.html" class="tag">Slice of Life</a>
+													<a href="/tag/20.html" class="tag">Manhwa</a>
+													<a href="/tag/21.html" class="tag">Webtoon</a>
+												</div>
+					</div>
+				</div>
+							
+			</div>
+			<div  style="width:100%;text-align: center;"> 
+			<ul class="pagination"><li class="disabled"><span>&laquo;Trang trước</span></li> <li class="active"><span>1</span></li><li><a href="/?p=2">2</a></li><li><a href="/?p=3">3</a></li><li><a href="/?p=4">4</a></li><li><a href="/?p=5">5</a></li><li><a href="/?p=6">6</a></li><li><a href="/?p=7">7</a></li><li><a href="/?p=8">8</a></li><li><a href="/?p=9">9</a></li><li><a href="/?p=10">10</a></li><li><a href="/?p=11">11</a></li> <li><a href="/?p=2">Trang tiếp theo&raquo;</a></li></ul>		   </div>
+		</div>
+		
+		
+			</div>
+	
+</div>
+</div>
+	
+<div id="footer">		
+	<div class="footercopyright">
+		<div class="sosmedmrgn">
+				
+				</div>
+		<div class="copyright">
+			<div class="txt">
+				<span>Copyright © 2024</span> ComicFull<br>Email：<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5525303b32636c656667153238343c397b363a38">[email&#160;protected]</a>			</div>
+		</div>
+	</div>
+	
+</div>
+	
+</div>
+<a href="#" class="scrollToTop" style="display: inline;">
+	<span class="fas fa-angle-up">
+	</span>
+</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	$(document).ready(function() {
+	$(window).scroll(function() {
+		if ($(this).scrollTop() > 100) {
+			$('.scrollToTop').fadeIn();
+		} else {
+			$('.scrollToTop').fadeOut();
+		}
+	});
+	//Click event to scroll to top
+	$('.scrollToTop').click(function() {
+		$('html, body').animate({
+			scrollTop: 0
+		}, 800);
+		return false;
+	});
+});
+</script>
+<script type="text/javascript" src="/template/default/js/bootstrap.min.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76QRZJVJZ5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-76QRZJVJZ5');
+</script> </body>
+</html>
+	

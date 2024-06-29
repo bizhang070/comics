@@ -1,0 +1,668 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>色情巴拉网</title>
+<meta name="keywords" content="成人电影,成人视频,成人影院,成人在线,国产视频,国产ts,无码成人,国产人妻,国产自拍偷拍" />
+<meta name="description" content="色情巴拉网为大家提供：免费成人电影,成人视频,成人影院,成人在线,国产视频,国产ts,无码成人,国产人妻,国产自拍偷拍视频,国产成人视频,国产视频在线播放,等原创自制华人国语对白成人视频,高清成人视频免费在线播放。" />   
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="/template/pornbala/statics/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/template/pornbala/statics/img/favicon.ico" /> 
+<link rel="canonical" href="https://www.pornbala.com/" />
+<link rel="stylesheet" href="/template/pornbala/statics/font/iconfont.css" type="text/css" />
+<link rel="stylesheet" href="/template/pornbala/statics/css/stui_block.css" type="text/css" />
+<link rel="stylesheet" href="/template/pornbala/statics/css/stui_default.css" type="text/css" />
+<script type="text/javascript" src="/template/pornbala/statics/js/jquery.min.js"></script>
+<script type="text/javascript" src="/template/pornbala/statics/js/jquery.cookie.min.js "></script>
+<script type="text/javascript" src="/template/pornbala/statics/js/jquery.lazyload.min.js "></script>
+<script type="text/javascript" src="/template/pornbala/statics/js/stui_default.js "></script>
+<script type="text/javascript" src="/template/pornbala/statics/js/home.js"></script>
+<script>var maccms={"path":"","mid":"","url":"www.pornbala.com","wapurl":"www.pornbala.com","mob_status":"0"};</script>
+
+</head>
+<body>
+	
+<div class="container">
+	<div class="row">
+		<div class="stui-pannel">
+			<div class="stui-pannel__hd">
+				<header class="stui-header clearfix">
+	<div class="container">	
+		<div class="row">
+			<ul class="stui_header__user">
+				<li>
+					<a href="javascript:;"><i class="iconfont icon-search"></i></a>
+					<div class="dropdown search">
+						<div class="item"> 
+					        <form id="search" name="search" method="POST" action="/vod/search.html" onSubmit="return qrsearch();">
+		    					<input type="text" id="wd" name="wd" class="form-control" value="" placeholder="请输入关键词..."/>
+								<button class="submit" id="searchbutton" type="submit" name="submit"><i class="icon iconfont icon-search"></i></button>							
+							</form>
+					   </div>
+					   <ul>
+					   						            <li><a href="/vod/search/wd/%E6%88%BF%E4%B8%9C.html">房东</a></li>
+				            				            <li><a href="/vod/search/wd/%E9%97%BA%E8%9C%9C%E5%9C%88.html">闺蜜圈</a></li>
+				            				            <li><a href="/vod/search/wd/%E5%A4%9A%E6%B1%81.html">多汁</a></li>
+				            				            <li><a href="/vod/search/wd/%E5%9D%90%E6%9C%88%E5%AD%90.html">坐月子</a></li>
+				            				            <li><a href="/vod/search/wd/%E5%89%8D%E5%A4%AB.html">前夫</a></li>
+				            				            <li><a href="/vod/search/wd/%E5%90%89%E5%A8%9C.html">吉娜</a></li>
+				            				            <li><a href="/vod/search/wd/%E4%B8%9D%E4%B8%9D.html">丝丝</a></li>
+				            				            <li><a href="/vod/search/wd/%E9%9F%A9%E7%84%89.html">韩焉</a></li>
+				            				            <li><a href="/vod/search/wd/%E7%8C%A5%E7%90%90.html">猥琐</a></li>
+				            				            <li><a href="/vod/search/wd/%E7%A8%8B%E5%AA%9B%E5%AA%9B.html">程媛媛</a></li>
+				            					   </ul>
+					</div>
+				</li>
+				<li>
+					<a href="javascript:;"><i class="iconfont icon-viewgallery"></i></a>
+					<ul class="dropdown type clearfix">
+						<li class="active"><a href="/">首页</a></li>
+						<li ><a href="/vod/search/wd/%E4%BA%BA%E5%A6%BB.html">人妻</a></li>
+						<li ><a href="/vod/search/wd/%E6%8E%A2%E8%8A%B1.html">探花</a></li>
+						<li ><a href="/vod/search/wd/%E5%9B%BD%E4%BA%A7.html">国产</a></li>
+						<li ><a href="/vod/search/wd/%E8%90%9D%E8%8E%89.html">萝莉</a></li>
+						<li ><a href="/topic">专题</a></li>
+						<li ><a href="/art">资讯</a></li>
+						<li ><a href="/vod/tag">标签</a></li>
+		              		
+					</ul>
+				</li>
+				<li>
+					<a href="javascript:;"><i class="iconfont icon-clock"></i></a>
+					<div class="dropdown history">
+						<div class="head">
+							<a class="historyclean pull-right" href="">清空</a>
+							<h5>播放记录</h5>
+						</div>
+						<ul class="clearfix" id="stui_history">
+						</ul>
+					</div>
+				</li>
+				
+				<li class="date"></li>
+			</ul>
+			<div class="stui-header__logo">
+				<a class="logo" href="/"></a>	
+			</div>
+			<ul class="stui-header__menu">
+				<li class="active"><a href="/">首页</a></li>
+				<li ><a href="/vod/search/wd/%E4%BA%BA%E5%A6%BB.html">人妻</a></li>
+				<li ><a href="/vod/search/wd/%E6%8E%A2%E8%8A%B1.html">探花</a></li>
+				<li ><a href="/vod/search/wd/%E5%9B%BD%E4%BA%A7.html">国产</a></li>
+				<li ><a href="/vod/search/wd/%E8%90%9D%E8%8E%89.html">萝莉</a></li>
+				<li ><a href="/topic">专题</a></li>
+				<li ><a href="/art">资讯</a></li>
+				<li ><a href="/vod/tag">标签</a></li>
+			</ul>
+			
+		</div>	  							    
+	</div>
+</header>
+<script type="text/javascript">
+	$(".stui_header__user li a").click(function(){
+		$(this).parent().find(".dropdown").toggle();
+	});
+</script>
+			</div>
+			
+<div class="block-tags">				
+	<div class="tags" id="play_tags">
+	   	 
+		<a class="item" href="/vod/search/wd/%E6%88%BF%E4%B8%9C.html"><span>房东</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E9%97%BA%E8%9C%9C%E5%9C%88.html"><span>闺蜜圈</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%A4%9A%E6%B1%81.html"><span>多汁</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%9D%90%E6%9C%88%E5%AD%90.html"><span>坐月子</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%89%8D%E5%A4%AB.html"><span>前夫</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%90%89%E5%A8%9C.html"><span>吉娜</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E4%B8%9D%E4%B8%9D.html"><span>丝丝</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E9%9F%A9%E7%84%89.html"><span>韩焉</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%8C%A5%E7%90%90.html"><span>猥琐</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%A8%8B%E5%AA%9B%E5%AA%9B.html"><span>程媛媛</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E6%96%87%E5%86%B0%E5%86%B0.html"><span>文冰冰</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%A4%A7%E5%A7%A8.html"><span>大姨</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%A8%8B%E8%91%B3.html"><span>程葳</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E8%87%AA%E6%85%B0.html"><span>自慰</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E6%9D%8E%E5%8D%8E%E6%9C%88.html"><span>李华月</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E8%B5%B5%E4%B8%80%E6%9B%BC.html"><span>赵一曼</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E9%85%92%E5%90%A7.html"><span>酒吧</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E6%8F%B4%E4%BA%A4.html"><span>援交</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E8%BF%B7%E4%BA%BA.html"><span>迷人</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%BC%80%E6%94%BE.html"><span>开放</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%88%B1%E8%B1%86.html"><span>爱豆</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E6%A4%85%E5%AD%90.html"><span>椅子</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E6%B4%97%E6%B5%B4.html"><span>洗浴</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E9%98%BF%E8%9B%87%E5%A7%90%E5%A7%90.html"><span>阿蛇姐姐</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%89%B9%E5%86%99.html"><span>特写</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%A6%BB%E5%AD%90.html"><span>妻子</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%86%85%E7%AA%A5%E9%95%9C.html"><span>内窥镜</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%8C%BB%E7%94%9F.html"><span>医生</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E9%80%BC%E8%82%A5.html"><span>逼肥</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E6%8E%A8%E6%B2%B9.html"><span>推油</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%BE%8E%E7%AB%B9%E7%8E%B2.html"><span>美竹玲</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%8F%97%E8%99%90.html"><span>受虐</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%88%98%E7%90%B4.html"><span>刘琴</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%89%B9%E5%A4%A7.html"><span>特大</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E5%AE%88%E5%AF%A1.html"><span>守寡</span></a>
+			 
+		<a class="item" href="/vod/search/wd/%E7%BE%8E%E4%B9%B3.html"><span>美乳</span></a>
+			</div>
+</div>
+	
+
+			<div class="stui-pannel__bd">
+				<div class="stui-vodlist__head" style="padding-left:10px;">
+					<h3><a >最近更新</a></h3>		
+				</div>
+				<ul class="stui-vodlist clearfix">
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/19521.html" title="小明拍下母女姐妹淘的裸身秀" data-original="/upload/vod/20240626-1/e44870876751f5781270fcf55503437b.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/19521.html" title="小明拍下母女姐妹淘的裸身秀">小明拍下母女姐妹淘的裸身秀</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/15587.html" title="极品高颜值美女K疯狂用黄瓜插入下体的" data-original="/upload/vod/20240624-4/41a17bb463570ccbb72a737bed89e6f9.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/15587.html" title="极品高颜值美女K疯狂用黄瓜插入下体的">极品高颜值美女K疯狂用黄瓜插入下体的</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/14955.html" title="漂亮骚女友与男友性爱自拍高清流出" data-original="/upload/vod/20240624-3/a3389f63705719312dbe6131f3ac79ff.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/14955.html" title="漂亮骚女友与男友性爱自拍高清流出">漂亮骚女友与男友性爱自拍高清流出</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/14404.html" title="女优级别的天价妹子竟然这么不同凡响！" data-original="/upload/vod/20240624-3/c43f84173b15f40f4d391b7f6f087336.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/14404.html" title="女优级别的天价妹子竟然这么不同凡响！">女优级别的天价妹子竟然这么不同凡响！</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13640.html" title="模特小芳：170cm长腿高跟秀巅峰魅力" data-original="/upload/vod/20240624-2/d28c23ff75e02ce180cc1c70541ec41c.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13640.html" title="模特小芳：170cm长腿高跟秀巅峰魅力">模特小芳：170cm长腿高跟秀巅峰魅力</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13552.html" title="张三双马尾的小女友约P白虎学生妹" data-original="/upload/vod/20240624-2/99a8333d7c1736b566d6d8aed20a3833.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13552.html" title="张三双马尾的小女友约P白虎学生妹">张三双马尾的小女友约P白虎学生妹</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13512.html" title="沈先生约小少妇酒店啪啪视频曝光" data-original="/upload/vod/20240624-2/088e52a1fc3024fbc2e1b3b5da379599.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13512.html" title="沈先生约小少妇酒店啪啪视频曝光">沈先生约小少妇酒店啪啪视频曝光</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13321.html" title="小汐啪啪秀：风骚小少妇的主动叫声让人心跳加速" data-original="/upload/vod/20240624-2/3de775b3e35b1d1742ff73c9afcd6b54.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13321.html" title="小汐啪啪秀：风骚小少妇的主动叫声让人心跳加速">小汐啪啪秀：风骚小少妇的主动叫声让人心跳加速</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13243.html" title="妙手仙灵雨神高潋质住宅绝顶作品" data-original="/upload/vod/20240624-2/e11436b7cb093ce9bd665a9232b829c1.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13243.html" title="妙手仙灵雨神高潋质住宅绝顶作品">妙手仙灵雨神高潋质住宅绝顶作品</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13208.html" title="林包臀裙换空姐制服 开档黑丝淫荡舔上位骑乘" data-original="/upload/vod/20240624-2/4172a007b643119d6f117632c5ca4b0e.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13208.html" title="林包臀裙换空姐制服 开档黑丝淫荡舔上位骑乘">林包臀裙换空姐制服 开档黑丝淫荡舔上位骑乘</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13194.html" title="赵总寻花约短裙肉感少妇口交" data-original="/upload/vod/20240624-2/2a73f92eda8f48d7e42249bdfce9d7bd.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13194.html" title="赵总寻花约短裙肉感少妇口交">赵总寻花约短裙肉感少妇口交</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13185.html" title="小文清纯少妇深喉口交全程露脸" data-original="/upload/vod/20240624-2/205d2f0db66518cb1363e73a30f3ae65.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13185.html" title="小文清纯少妇深喉口交全程露脸">小文清纯少妇深喉口交全程露脸</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13144.html" title="小琳露脸骚奶子诱惑大哥口交乳交" data-original="/upload/vod/20240624-1/8a8471e8aa68f1036ff6cfc5469ab7d7.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13144.html" title="小琳露脸骚奶子诱惑大哥口交乳交">小琳露脸骚奶子诱惑大哥口交乳交</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13077.html" title="林梅露脸诱惑制服口交 大哥压在身下爆草抽插" data-original="/upload/vod/20240624-1/3049e41e1c10b57de55a8c745a2ab4dd.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13077.html" title="林梅露脸诱惑制服口交 大哥压在身下爆草抽插">林梅露脸诱惑制服口交 大哥压在身下爆草抽插</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13060.html" title="#探花第一视角探花上门翘臀少妇肉体诱惑" data-original="/upload/vod/20240624-1/4286cc3ddf1af35320f1ef4c59826ebb.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13060.html" title="#探花第一视角探花上门翘臀少妇肉体诱惑">#探花第一视角探花上门翘臀少妇肉体诱惑</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13053.html" title="小少妇在养生会所被按摩棒玩弄，胖子的春天来了" data-original="/upload/vod/20240624-1/8e1f0cd82a1958836343e4e24655d9be.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13053.html" title="小少妇在养生会所被按摩棒玩弄，胖子的春天来了">小少妇在养生会所被按摩棒玩弄，胖子的春天来了</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/13044.html" title="黑丝小少妇口交啪啪大哥内射" data-original="/upload/vod/20240624-1/dd30a11a7d9926d4eb90306e8dc6ba01.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/13044.html" title="黑丝小少妇口交啪啪大哥内射">黑丝小少妇口交啪啪大哥内射</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20549.html" title="程媛媛拜金妹妹勾引哥哥" data-original="/upload/vod/20240626-2/36dd49efa524561a5017c68fe2d7b61d.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20549.html" title="程媛媛拜金妹妹勾引哥哥">程媛媛拜金妹妹勾引哥哥</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20548.html" title="李可欣JDYP005 约啪约到班花" data-original="/upload/vod/20240626-2/fdafe4b637858c47bffc7059825d7077.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20548.html" title="李可欣JDYP005 约啪约到班花">李可欣JDYP005 约啪约到班花</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20538.html" title="菲于娜残疾性天使正面能量传播爱" data-original="/upload/vod/20240626-2/3e68cbb9fc2d58ec41d561dff77daeb7.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20538.html" title="菲于娜残疾性天使正面能量传播爱">菲于娜残疾性天使正面能量传播爱</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20536.html" title="暴操大屌-林曼芸深夜外卖遇上了什么" data-original="/upload/vod/20240626-2/8d2e4cc0385efe12fe68db298e48df3e.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20536.html" title="暴操大屌-林曼芸深夜外卖遇上了什么">暴操大屌-林曼芸深夜外卖遇上了什么</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20535.html" title="深名美惠-EP3.AV中日对抗,无套后入丰满翘臀" data-original="/upload/vod/20240626-2/be3bf949dc11f8cfc07783141fc2a61b.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20535.html" title="深名美惠-EP3.AV中日对抗,无套后入丰满翘臀">深名美惠-EP3.AV中日对抗,无套后入丰满翘臀</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20534.html" title="刘嘉佳被继父强奸！" data-original="/upload/vod/20240626-2/c368693a2989aa5552da96900db96ded.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20534.html" title="刘嘉佳被继父强奸！">刘嘉佳被继父强奸！</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20533.html" title="果冻传媒-蒋梦琳少女榨精挑战" data-original="/upload/vod/20240626-2/286a2fa295ad872765e995bd27bc6565.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20533.html" title="果冻传媒-蒋梦琳少女榨精挑战">果冻传媒-蒋梦琳少女榨精挑战</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20527.html" title="林雅儿威尼斯激情炮" data-original="/upload/vod/20240626-2/e6bd5ff2436f9bab8f134f7700e14b29.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20527.html" title="林雅儿威尼斯激情炮">林雅儿威尼斯激情炮</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20516.html" title="小鹿酱勾引表哥玩水晶棒" data-original="/upload/vod/20240626-2/bfcf4d13d96f97d78fe563b7deb6099f.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20516.html" title="小鹿酱勾引表哥玩水晶棒">小鹿酱勾引表哥玩水晶棒</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20514.html" title="白沐儿激情性爱视频流出" data-original="/upload/vod/20240626-2/22057bde64c9be9bae089d4a1c40da29.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20514.html" title="白沐儿激情性爱视频流出">白沐儿激情性爱视频流出</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20512.html" title="韩诗雨MAD039 机灵小叫花 新人女优麻豆AV" data-original="/upload/vod/20240626-2/4ae8e9402f191b09930f204ab2b02054.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20512.html" title="韩诗雨MAD039 机灵小叫花 新人女优麻豆AV">韩诗雨MAD039 机灵小叫花 新人女优麻豆AV</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20501.html" title="管明美突然被姪女吃屌初体验" data-original="/upload/vod/20240626-2/90973e9262cea6016d8b70bc7fc0835c.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20501.html" title="管明美突然被姪女吃屌初体验">管明美突然被姪女吃屌初体验</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+										<li class="col-md-5 col-sm-4 col-xs-3 ">
+					<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/vod/play/id/20495.html" title="李文雯演绎XK8021头文字D赛车" data-original="/upload/vod/20240626-2/bc1449ae914df0b38868f035aef49a73.jpg">						
+		<span class="play hidden-xs"></span>		
+		
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/vod/detail/id/20495.html" title="李文雯演绎XK8021头文字D赛车">李文雯演绎XK8021头文字D赛车</a></h4>
+		<p class="text text-overflow text-muted">06月29日</p>
+	</div>												
+</div>												
+					</li>
+									</ul>
+				<ul class="stui-page__item text-center clearfix">
+	<li><a href="/index/index/page/1.html">首页</a></li>
+	<li><a href="/index/index/page/1.html">上一页</a></li>							
+		<li class="hidden-xs active"><a href="/index/index/page/1.html">1</a></li>
+		<li class="hidden-xs "><a href="/index/index/page/2.html">2</a></li>
+		<li class="hidden-xs "><a href="/index/index/page/3.html">3</a></li>
+		<li class="hidden-xs "><a href="/index/index/page/4.html">4</a></li>
+		<li class="hidden-xs "><a href="/index/index/page/5.html">5</a></li>
+		<li class="active num"><a>1/27</a></li>
+	<li><a href="/index/index/page/2.html">下一页</a></li>
+	<li><a href="/index/index/page/27.html">尾页</a></li>							
+</ul>
+
+			</div>
+			<!-- NO:D002 by v.shoutu.cn -->
+<div class="stui-pannel stui-pannel-bg clearfix">
+	<div class="stui-pannel-box">
+		<div class="stui-pannel_hd">
+			<div class="stui-vodlist__head">
+				<a class="more text-muted pull-right" href="/art">更多 <i class="icon iconfont icon-more"></i></a>
+				<h3 >					
+					<a>最新AV资讯</a>
+				</h3>						
+			</div>																		
+		</div>
+		<div class="stui-pannel_bd clearfix">
+			
+			<ul class="stui-vodlist__text col-pd clearfix">
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/12312.html" title="N高颜值美女疯狂用黄瓜插入下体的"><i class="icon iconfont icon-more pull-right  text-muted"></i>N高颜值美女疯狂用黄瓜插入下体的</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/11684.html" title="网曝门事件揭露小颖与前渣男友性爱视频"><i class="icon iconfont icon-more pull-right  text-muted"></i>网曝门事件揭露小颖与前渣男友性爱视频</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10934.html" title="李四遭遇洋鬼子狂操美国留学生母狗，精液喷满整张脸"><i class="icon iconfont icon-more pull-right  text-muted"></i>李四遭遇洋鬼子狂操美国留学生母狗，精液喷满整张脸</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10842.html" title="大学生情侣造爱衣服不脱就开始亲吻挑逗脱掉裤子插阴道多姿势"><i class="icon iconfont icon-more pull-right  text-muted"></i>大学生情侣造爱衣服不脱就开始亲吻挑逗脱掉裤子插阴道多姿势</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10414.html" title="超大物新人彩月七緒，大学生变身AV女优！"><i class="icon iconfont icon-more pull-right  text-muted"></i>超大物新人彩月七緒，大学生变身AV女优！</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10368.html" title="大学生女模特小雨：身高170cm展示完美身材"><i class="icon iconfont icon-more pull-right  text-muted"></i>大学生女模特小雨：身高170cm展示完美身材</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10241.html" title="空姐小娟翘起屁股后入大力撞击"><i class="icon iconfont icon-more pull-right  text-muted"></i>空姐小娟翘起屁股后入大力撞击</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10240.html" title="疯狂啪啪！小少妇被大屌沈先生操得疼"><i class="icon iconfont icon-more pull-right  text-muted"></i>疯狂啪啪！小少妇被大屌沈先生操得疼</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10191.html" title="李公子新秀大奶少妇服务周到专属定制服务"><i class="icon iconfont icon-more pull-right  text-muted"></i>李公子新秀大奶少妇服务周到专属定制服务</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/10105.html" title="探花小哥和酒店服务员热舞对决，短裙大奶少妇妩媚动人！"><i class="icon iconfont icon-more pull-right  text-muted"></i>探花小哥和酒店服务员热舞对决，短裙大奶少妇妩媚动人！</a>								
+				</li>
+					
+			</ul>
+		</div>
+		
+	</div>
+</div>	
+<style type="text/css">
+.linka{ background-color:#313032; padding:10px 20px 0px 20px; margin:0 auto;color:#fff; text-align:left;border-radius:100px;}
+.linka ul{ padding:0px 10px 10px 10px; line-height:26px; overflow:hidden;}
+.linka li{ float:left; width:25%;}
+.linka a{ color:#999;}
+.linka a:hover{ color:#FF6600;}
+.linka b{ padding:10px 0px 0px 10px; font-weight:normal;}
+</style>
+<div class="linka">
+<b>友链</b>
+<ul>
+	</ul>
+
+
+</div>		
+				
+        	</div>        	
+        </div>
+    </div>
+    <div class="container">
+	<div class="row">
+		<div class="stui-foot clearfix">
+			<p class="text-center">
+			Copyright © 2024 色情巴拉网. All Rights Reserved.
+						<br><br>联系邮箱：<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6b1b0e050c5d525b58592b0c060a020745080406">[email&#160;protected]</a>			</p>	
+		</div>
+	</div>
+</div>
+<!-- Google tag (gtag.js) -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-7M9THTS1HB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7M9THTS1HB');
+</script>
+	<div class="hide"></div>
+
+</body>
+</html>

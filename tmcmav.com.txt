@@ -1,0 +1,984 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>天美传媒av視頻网-专注于做全网最大的免费天美传媒av成人视频在线播放网站</title>
+<meta name="keywords" content="天美传媒,天美視頻,天美av,天美sex,原创av,国产原创av,天美成人,天美视频完整版,天美视频在线" />
+<meta name="description" content="天美传媒av视频网为广大网友提供：免费天美传媒视频,天美成人視頻,天美a片,天美av视频,天美视频完整版,天美视频在线,天美国产成人视频,天美国产视频在线,等天美传媒国产原创自制华人国语对白成人av视频,更多高清天美成人av视频免费在线播放就在天美传媒av视频网。" />   
+	<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/template/tmcmav/statics/image/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/template/tmcmav/statics/image/favicon.ico" /> 
+<link rel="canonical" href="https://www.tmcmav.com/" />
+<link href="/template/tmcmav/statics/css/main.css" rel="stylesheet" type="text/css">
+<link href="/template/tmcmav/statics/css/orang.css" rel="stylesheet" type="text/css">
+<link href="/template/tmcmav/statics/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="/template/tmcmav/statics/css/stui_block.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/template/tmcmav/statics/js/jquery.js"></script>
+<script type="text/javascript" src="/template/tmcmav/statics/js/home.js"></script>
+
+<script type="text/javascript" src="/template/tmcmav/statics/js/stui_default.js"></script>
+<script type="text/javascript" src="/template/tmcmav/statics/js/stui_block.js"></script>
+
+<script type="text/javascript" src="/template/tmcmav/ads/index.js"></script>
+<script>var maccms={"path":"","mid":"","url":"www.tmcmav.com","wapurl":"www.tmcmav.com","mob_status":"0"};</script>
+	</head>
+	<body>
+		<div class="shadow"></div>
+		<header class="header gddh">
+	<div class="search easy-autocomplete">
+		<form action="/vod/search.html" method="get"  class="form">
+			<div class="input wrap-input">
+				<input type="text" name="wd" value="" autocomplete="off">
+				<button type="submit" class="search-btn" aria-label="Search">
+					<i class="icon-search"></i>
+				</button>
+			</div>
+		</form>
+	</div>
+
+	<div class="wrap madou">
+		<div class="flex">
+			<div class="left-block">
+				<span class="icon-hamb hamb-menu"></span>
+				<a href="/" class="logo">
+					<img src="/template/tmcmav/statics/image/logo.png" width="150" height="50">
+				</a>
+			</div>
+			<nav class="nav">
+				<ul class="menu">
+					<li>
+						<a href="/" class="active">首页</a>
+					</li>
+								<li ><a href="/vod/type/id/15.html" >天美传媒視頻</a></li>
+								<li ><a href="/vod/type/id/16.html" >天美視頻番外篇</a></li>
+								<li ><a href="/vod/type/id/17.html" >天美視頻花絮</a></li>
+								<li ><a href="/topic" >天美传媒专题</a></li>				
+				<li ><a href="/art" >天美传媒资讯</a></li>
+				<li ><a href="/vod/tag" >热门标签</a></li>
+				
+				</ul>
+			</nav>
+			<div class="right-block">
+				<span class="btn-search link-icon">
+					<span class="icon-search"></span>
+					<span class="icon-close"></span>
+				</span>
+			</div>
+		</div>
+	</div>
+</header>
+		
+   
+
+		<div class="wrapped">
+		<main>			    
+			<aside class="sidebar">	
+	<div class="side-content">						
+		<div class="block">
+			<ul class="list-link">
+				<li>
+					<a href="/"><span class="name">首页</span></a>
+				</li>				
+								<li>
+					<a href="/vod/type/id/15.html"  >
+						<span class="name">天美传媒視頻</span>
+						<span class="value">457</span>
+					</a>
+				</li>
+								<li>
+					<a href="/vod/type/id/16.html"  >
+						<span class="name">天美視頻番外篇</span>
+						<span class="value">821</span>
+					</a>
+				</li>
+								<li>
+					<a href="/vod/type/id/17.html"  >
+						<span class="name">天美視頻花絮</span>
+						<span class="value">20</span>
+					</a>
+				</li>
+											
+				<li>
+					<a  href="/topic"><span class="name">天美传媒专题</span></a>
+				</li>
+				<li>
+					<a  href="/art"><span class="name">天美传媒资讯</span></a>
+				</li>
+				<li>
+					<a  href="/vod/tag"><span class="name">热门标签</span></a>
+				</li>
+			</ul>
+			
+		</div>
+		
+		<div class="title border">
+			<h4>其他传媒</h4>
+		</div>
+		<div class="block">
+			<ul class="list-link">
+							<li>
+					<a href="https://www.madou18h.com/" target="_black">
+						<span class="name">麻豆传媒</span>						
+					</a>
+				</li>
+							<li>
+					<a href="https://www.91sekan.com/" target="_black">
+						<span class="name">91制片厂</span>						
+					</a>
+				</li>
+							<li>
+					<a href="https://www.rb18av.com/" target="_black">
+						<span class="name">日本AV</span>						
+					</a>
+				</li>
+							<li>
+					<a href="https://www.tmcmav.com/" target="_black">
+						<span class="name">天美传媒</span>						
+					</a>
+				</li>
+							<li>
+					<a href="https://www.jvid18.com/" target="_black">
+						<span class="name">JVID</span>						
+					</a>
+				</li>
+					
+												
+			</ul>
+			
+		</div>
+	</div>
+</aside>
+				<!--导航菜单-->
+		<div class="content">
+			<section class="section">
+				<div class="wrap">
+				<div class="ads" data-group="tops"><script type="text/javascript">ad_tops();</script></div>
+				</div>
+			</section>	
+			
+		<div class="wrap">
+			<div class="block-tags">				
+				<div class="tags" id="play_tags">
+				   	 
+					<a class="item" href="/vod/search/tag/%E6%8B%94%E5%90%8A.html"><span>拔吊</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A4%B1%E7%A6%81.html"><span>失禁</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E9%98%B4%E9%9B%80%E7%BA%B9.html"><span>阴雀纹</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%B4%B5%E5%A6%87.html"><span>贵妇</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%94%B7%E4%BC%98.html"><span>男优</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A5%BD%E8%89%B2.html"><span>好色</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A4%A7%E5%B0%BA%E5%BA%A6.html"><span>大尺度</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%91%B8%E5%A5%B6.html"><span>摸奶</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%BD%AE%E5%90%B9%E6%BB%BF.html"><span>潮吹滿</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%B0%84%E8%BF%9B.html"><span>射进</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%8C%AE%E8%BA%AB.html"><span>献身</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%8D%89%E8%82%BF.html"><span>草肿</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%90%9D%E8%8E%89%E5%AB%A9.html"><span>萝莉嫩</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%B6%81%E9%86%89.html"><span>趁醉</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%88%B6%E6%9C%8D.html"><span>制服</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%83%85%E5%A9%A6.html"><span>情婦</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%BE%8E%E4%B9%B3%E5%A4%A7.html"><span>美乳大</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%BE%8E%E8%85%BF.html"><span>美腿</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%90%B8%E9%98%B4.html"><span>吸阴</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%85%BB%E5%A5%B3.html"><span>养女</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%83%A8%E9%81%AD.html"><span>惨遭</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%B7%A8%E4%B9%B3%E5%A5%B3.html"><span>巨乳女</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%99%BD%E5%AB%96%E5%AD%A6%E5%A6%B9.html"><span>白嫖学妹</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%86%85%E5%B0%84%E5%A6%B9.html"><span>内射妹</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%8F%91%E6%83%85%E6%9C%9F.html"><span>发情期</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%8B%BE%E6%90%AD.html"><span>勾搭</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%AF%A1%E5%A6%87.html"><span>寡妇</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%95%99%E5%AD%A6%E7%94%9F.html"><span>留学生</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%8F%89%E5%A5%B6.html"><span>揉奶</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%B4%A7%E8%BA%AB%E8%A1%A3.html"><span>紧身衣</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%86%85%E5%B0%84%E8%A3%85.html"><span>内射装</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E9%AA%9A%E6%93%8D.html"><span>骚操</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%8D%95%E7%BA%AF.html"><span>单纯</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%80%92%E6%93%8D.html"><span>怒操</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E9%80%BC%E8%BF%AB.html"><span>逼迫</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E9%9C%B2%E5%B0%8F%E7%A9%B4.html"><span>露小穴</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E4%BC%A6%E7%90%86.html"><span>伦理</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%8D%8E%E4%BA%BA.html"><span>华人</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%88%86%E7%B2%BE%E5%B0%84.html"><span>爆精射</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%8F%8C%E6%8F%92.html"><span>双插</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A5%B3%E5%AD%B8%E7%94%9F.html"><span>女學生</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%90%9D%E8%8E%89%E8%A3%99.html"><span>萝莉裙</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%B5%81%E6%B0%93.html"><span>流氓</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E4%B8%B0%E8%87%80.html"><span>丰臀</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A6%96%E8%BF%B7.html"><span>妖迷</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%88%BF%E6%B7%AB%E6%83%85.html"><span>房淫情</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%B2%A7%E4%B9%B3.html"><span>貧乳</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%BE%A1%E5%A7%90%E8%8C%83.html"><span>御姐范</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%B2%A1%E7%A1%AC.html"><span>没硬</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%95%99%E5%AE%88.html"><span>留守</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%A0%A1%E8%8A%B1.html"><span>校花</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%AF%9B%E7%89%87.html"><span>毛片</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E8%9D%B4%E8%9D%B6.html"><span>蝴蝶</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%94%B7%E5%A5%B3.html"><span>男女</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%86%85%E5%B0%84%E6%80%92.html"><span>内射怒</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A6%B9%E5%A6%B9.html"><span>妹妹</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%8E%80%E5%BC%80.html"><span>掀开</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A6%B9%E8%82%89%E5%81%BF.html"><span>妹肉偿</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A4%A7%E5%AD%A6%E7%94%9F.html"><span>大学生</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%AE%81%E6%B4%8B%E5%AD%90.html"><span>宁洋子</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%BB%91%E5%85%A5.html"><span>滑入</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%92%A9%E4%BA%BA.html"><span>撩人</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E5%A5%B8%E6%B7%AB.html"><span>奸淫</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E6%80%A7%E8%B4%BF%E8%B5%82.html"><span>性贿赂</span></a>
+						 
+					<a class="item" href="/vod/search/tag/%E7%A3%A8%E6%93%A6.html"><span>磨擦</span></a>
+									</div>
+			</div>
+		</div>
+
+			<section class="section">
+	<div class="wrap">
+		<div class="heading">
+			<div class="title">
+				<h1>最新天美传媒視頻</h1>
+			</div>
+			
+		</div>
+		<div class="block-post">
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22998.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/1ed258cb52e257e1001ef77fd60827e1.jpg" title="办公室强上黑丝女实习生苡若尴尬现场曝光"></a>
+				</div>
+				<a href="/vod/play/id/22998.html" title="办公室强上黑丝女实习生苡若尴尬现场曝光">
+				<div class="info-post">
+					<h4 class="title-post">办公室强上黑丝女实习生苡若尴尬现场曝光</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>270</span>
+						<span class="atten"><i class="icon-like"></i>743</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22990.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/1a8101de240bc774ab803d83c7cc15ea.jpg" title="初遇霸道学长赵雅琳"></a>
+				</div>
+				<a href="/vod/play/id/22990.html" title="初遇霸道学长赵雅琳">
+				<div class="info-post">
+					<h4 class="title-post">初遇霸道学长赵雅琳</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>753</span>
+						<span class="atten"><i class="icon-like"></i>649</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22989.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/349c5acb672469b5e4025247c90d6ab9.jpg" title="小米TMW087超会做爱的清纯女友"></a>
+				</div>
+				<a href="/vod/play/id/22989.html" title="小米TMW087超会做爱的清纯女友">
+				<div class="info-post">
+					<h4 class="title-post">小米TMW087超会做爱的清纯女友</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>968</span>
+						<span class="atten"><i class="icon-like"></i>713</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22999.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/4814e0135acb426ad236f3863d849cd1.jpg" title="小明的性教育之旅"></a>
+				</div>
+				<a href="/vod/play/id/22999.html" title="小明的性教育之旅">
+				<div class="info-post">
+					<h4 class="title-post">小明的性教育之旅</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>388</span>
+						<span class="atten"><i class="icon-like"></i>589</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23005.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/254f4f58d13540759a900c7af514aba5.jpg" title="女友性感挑逗男友 口爆裹醒男友无套抽插"></a>
+				</div>
+				<a href="/vod/play/id/23005.html" title="女友性感挑逗男友 口爆裹醒男友无套抽插">
+				<div class="info-post">
+					<h4 class="title-post">女友性感挑逗男友 口爆裹醒男友无套抽插</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>929</span>
+						<span class="atten"><i class="icon-like"></i>658</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23004.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/8a1ebec5c9e058145333b1f2995c7c17.jpg" title="花痴女友对韩国欧巴疯狂示爱！"></a>
+				</div>
+				<a href="/vod/play/id/23004.html" title="花痴女友对韩国欧巴疯狂示爱！">
+				<div class="info-post">
+					<h4 class="title-post">花痴女友对韩国欧巴疯狂示爱！</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>416</span>
+						<span class="atten"><i class="icon-like"></i>791</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22987.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/5a98fae2418fc173c4cfef0f06947d1e.jpg" title="TMW086 SM专属调教员狂虐服从"></a>
+				</div>
+				<a href="/vod/play/id/22987.html" title="TMW086 SM专属调教员狂虐服从">
+				<div class="info-post">
+					<h4 class="title-post">TMW086 SM专属调教员狂虐服从</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>276</span>
+						<span class="atten"><i class="icon-like"></i>962</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22988.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/883b4233522e4589bf11efdd2931346f.jpg" title="4人海滩露营炮旅 淫欲四溢！"></a>
+				</div>
+				<a href="/vod/play/id/22988.html" title="4人海滩露营炮旅 淫欲四溢！">
+				<div class="info-post">
+					<h4 class="title-post">4人海滩露营炮旅 淫欲四溢！</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>831</span>
+						<span class="atten"><i class="icon-like"></i>105</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23000.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/fa733e0fdbb2d68e6d21f5a27dafbcd3.jpg" title="胡蓉蓉：吸血鬼打炮不留情"></a>
+				</div>
+				<a href="/vod/play/id/23000.html" title="胡蓉蓉：吸血鬼打炮不留情">
+				<div class="info-post">
+					<h4 class="title-post">胡蓉蓉：吸血鬼打炮不留情</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>108</span>
+						<span class="atten"><i class="icon-like"></i>818</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23001.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/89c45720e3ee2b1386112186c5bd1c00.jpg" title="邱玲珑面试女优首秀"></a>
+				</div>
+				<a href="/vod/play/id/23001.html" title="邱玲珑面试女优首秀">
+				<div class="info-post">
+					<h4 class="title-post">邱玲珑面试女优首秀</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>258</span>
+						<span class="atten"><i class="icon-like"></i>927</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22986.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/a6f7d3e241efde98d3cbf2ae88e5e2c6.jpg" title="偷窥淫欲女房客 EVA 23号房"></a>
+				</div>
+				<a href="/vod/play/id/22986.html" title="偷窥淫欲女房客 EVA 23号房">
+				<div class="info-post">
+					<h4 class="title-post">偷窥淫欲女房客 EVA 23号房</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>739</span>
+						<span class="atten"><i class="icon-like"></i>846</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22985.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/a3200383a2db40e5166f9f0404ef2307.jpg" title="水彩画师TMW093的性感裸模人体作品展示"></a>
+				</div>
+				<a href="/vod/play/id/22985.html" title="水彩画师TMW093的性感裸模人体作品展示">
+				<div class="info-post">
+					<h4 class="title-post">水彩画师TMW093的性感裸模人体作品展示</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>998</span>
+						<span class="atten"><i class="icon-like"></i>822</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22984.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/81e97156ab7f8e0589301f9766825388.jpg" title="TMW094 羽球场激烈性爱！张三疯狂吻戏曝光"></a>
+				</div>
+				<a href="/vod/play/id/22984.html" title="TMW094 羽球场激烈性爱！张三疯狂吻戏曝光">
+				<div class="info-post">
+					<h4 class="title-post">TMW094 羽球场激烈性爱！张三疯狂吻戏曝光</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>662</span>
+						<span class="atten"><i class="icon-like"></i>790</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22983.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/fd5f8556e60c36f3098219eae520ae98.jpg" title="TMW097 与神级女优一日约会看电影"></a>
+				</div>
+				<a href="/vod/play/id/22983.html" title="TMW097 与神级女优一日约会看电影">
+				<div class="info-post">
+					<h4 class="title-post">TMW097 与神级女优一日约会看电影</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>536</span>
+						<span class="atten"><i class="icon-like"></i>347</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22996.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/6cc27d33f34a490b24bb71459b61c851.jpg" title="修理水电的小王到底是修理水电还是修小李"></a>
+				</div>
+				<a href="/vod/play/id/22996.html" title="修理水电的小王到底是修理水电还是修小李">
+				<div class="info-post">
+					<h4 class="title-post">修理水电的小王到底是修理水电还是修小李</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>216</span>
+						<span class="atten"><i class="icon-like"></i>799</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22995.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/b9494963a096379c002cad908033e3ab.jpg" title="沙美辰巧上催眠大师巨乳少妇"></a>
+				</div>
+				<a href="/vod/play/id/22995.html" title="沙美辰巧上催眠大师巨乳少妇">
+				<div class="info-post">
+					<h4 class="title-post">沙美辰巧上催眠大师巨乳少妇</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>309</span>
+						<span class="atten"><i class="icon-like"></i>754</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22994.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/762026469f8c350c2c8e2dc43113f851.jpg" title="张雅婷：像天堂的悬崖|震撼航拍视角！"></a>
+				</div>
+				<a href="/vod/play/id/22994.html" title="张雅婷：像天堂的悬崖|震撼航拍视角！">
+				<div class="info-post">
+					<h4 class="title-post">张雅婷：像天堂的悬崖|震撼航拍视角！</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>909</span>
+						<span class="atten"><i class="icon-like"></i>569</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22993.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/62986ba28f493efec13ab1b842f532aa.jpg" title="孟若雨的江湖故事"></a>
+				</div>
+				<a href="/vod/play/id/22993.html" title="孟若雨的江湖故事">
+				<div class="info-post">
+					<h4 class="title-post">孟若雨的江湖故事</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>246</span>
+						<span class="atten"><i class="icon-like"></i>620</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22997.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/35bda4f80505627975ebe9f82299e64f.jpg" title="沈茹雪：卖身救夫律师一夜50万"></a>
+				</div>
+				<a href="/vod/play/id/22997.html" title="沈茹雪：卖身救夫律师一夜50万">
+				<div class="info-post">
+					<h4 class="title-post">沈茹雪：卖身救夫律师一夜50万</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>765</span>
+						<span class="atten"><i class="icon-like"></i>157</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23008.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/6ed6e3160d08bb17b4d649125a84e439.jpg" title="校园惊现性侵女老师案件"></a>
+				</div>
+				<a href="/vod/play/id/23008.html" title="校园惊现性侵女老师案件">
+				<div class="info-post">
+					<h4 class="title-post">校园惊现性侵女老师案件</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>614</span>
+						<span class="atten"><i class="icon-like"></i>928</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23007.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/fef2b632da9e1650ba30378148f930fd.jpg" title="刘可馨自慰诱惑小偷无套颜射"></a>
+				</div>
+				<a href="/vod/play/id/23007.html" title="刘可馨自慰诱惑小偷无套颜射">
+				<div class="info-post">
+					<h4 class="title-post">刘可馨自慰诱惑小偷无套颜射</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>805</span>
+						<span class="atten"><i class="icon-like"></i>321</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/23006.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/1dc20619d6b713b00a4145934d577458.jpg" title="张妹妹挑战极限欲望逆袭"></a>
+				</div>
+				<a href="/vod/play/id/23006.html" title="张妹妹挑战极限欲望逆袭">
+				<div class="info-post">
+					<h4 class="title-post">张妹妹挑战极限欲望逆袭</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月29日</span>
+						<span><i class="icon-eye"></i>385</span>
+						<span class="atten"><i class="icon-like"></i>334</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22967.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/1f35bbc017ee9c07adbc74c26a721466.jpg" title="TMW126 相亲遇隔离？！被迫同居恋爱实境"></a>
+				</div>
+				<a href="/vod/play/id/22967.html" title="TMW126 相亲遇隔离？！被迫同居恋爱实境">
+				<div class="info-post">
+					<h4 class="title-post">TMW126 相亲遇隔离？！被迫同居恋爱实境</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>127</span>
+						<span class="atten"><i class="icon-like"></i>565</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22968.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/adf5b4a94280d662a39880a637c0f4be.jpg" title="小区管理员TMW125 遭偷拍！警方介入！"></a>
+				</div>
+				<a href="/vod/play/id/22968.html" title="小区管理员TMW125 遭偷拍！警方介入！">
+				<div class="info-post">
+					<h4 class="title-post">小区管理员TMW125 遭偷拍！警方介入！</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>710</span>
+						<span class="atten"><i class="icon-like"></i>549</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22964.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/779b64a27c456f2bde990dcb4b3da539.jpg" title="TMW133 爸爸的人体书法-大人的新年礼，超感动！"></a>
+				</div>
+				<a href="/vod/play/id/22964.html" title="TMW133 爸爸的人体书法-大人的新年礼，超感动！">
+				<div class="info-post">
+					<h4 class="title-post">TMW133 爸爸的人体书法-大人的新年礼，超感动！</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>343</span>
+						<span class="atten"><i class="icon-like"></i>920</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22963.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/2879d2f1778ca65a9025503dc7817387.jpg" title="小芸面基叛逆期少女，惹火爆插极致白虎嫩鲍"></a>
+				</div>
+				<a href="/vod/play/id/22963.html" title="小芸面基叛逆期少女，惹火爆插极致白虎嫩鲍">
+				<div class="info-post">
+					<h4 class="title-post">小芸面基叛逆期少女，惹火爆插极致白虎嫩鲍</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>310</span>
+						<span class="atten"><i class="icon-like"></i>114</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22962.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/aafca8568ac05f84f315ad6ee4e2cac7.jpg" title="TMW139 人偶恋爱日记-只顺从我的木偶少女 实况"></a>
+				</div>
+				<a href="/vod/play/id/22962.html" title="TMW139 人偶恋爱日记-只顺从我的木偶少女 实况">
+				<div class="info-post">
+					<h4 class="title-post">TMW139 人偶恋爱日记-只顺从我的木偶少女 实况</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>321</span>
+						<span class="atten"><i class="icon-like"></i>329</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22961.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/32e4a14ec5ae4353d2e04717e5856148.jpg" title="张婉悠 视讯自慰被抓 网友围观"></a>
+				</div>
+				<a href="/vod/play/id/22961.html" title="张婉悠 视讯自慰被抓 网友围观">
+				<div class="info-post">
+					<h4 class="title-post">张婉悠 视讯自慰被抓 网友围观</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>384</span>
+						<span class="atten"><i class="icon-like"></i>292</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22966.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/1dcb0bff63cd8eb225e154be57164e74.jpg" title="TMW127 甜甜互动一日约会-天灯祈福爱情实录"></a>
+				</div>
+				<a href="/vod/play/id/22966.html" title="TMW127 甜甜互动一日约会-天灯祈福爱情实录">
+				<div class="info-post">
+					<h4 class="title-post">TMW127 甜甜互动一日约会-天灯祈福爱情实录</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>794</span>
+						<span class="atten"><i class="icon-like"></i>6</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+						<div class="item">
+			
+				<div class="img">
+					
+					<a href="/vod/play/id/22965.html" class="w-thumb stui-vodlist__thumb active lazyload" data-original="/upload/vod/20240612-1/3e9e27bdf87ea9939f7fc156a9072ccd.jpg" title="TMW128 改装车派对-性感尤物帮忙转大人"></a>
+				</div>
+				<a href="/vod/play/id/22965.html" title="TMW128 改装车派对-性感尤物帮忙转大人">
+				<div class="info-post">
+					<h4 class="title-post">TMW128 改装车派对-性感尤物帮忙转大人</h4>
+					<div class="stat">
+						<span><i class="icon-calendar"></i>06月28日</span>
+						<span><i class="icon-eye"></i>959</span>
+						<span class="atten"><i class="icon-like"></i>905</span>
+					</div>
+				</div>
+				</a>
+		</div>
+
+					</div>
+		
+	</div>
+</section>
+<!--最新视频-->
+			<div class="pagination">
+    	<div class="item active">
+		<a  href="javascript:;" >1</a>
+	</div>
+    	<div class="item ">
+		<a  href="/index/index/page/2.html">2</a>
+	</div>
+    	<div class="item ">
+		<a  href="/index/index/page/3.html">3</a>
+	</div>
+    	<div class="item ">
+		<a  href="/index/index/page/4.html">4</a>
+	</div>
+    	<div class="item ">
+		<a  href="/index/index/page/5.html">5</a>
+	</div>
+    	       <div class="item dots">
+		<a href="javascript:;">...</a>
+	</div>
+	<div class="item ">
+		<a  href="/index/index/page/44.html">44</a>
+	</div>
+		<div class="item pager next">
+		<a class="btn"  href="/index/index/page/2.html">
+			<span>下一页</span>
+			<i class="icon-arrow-right icon"></i>
+		</a>
+	</div>
+	</div>
+
+			<section class="section">
+	<div class="wrap">
+		<div class="heading">
+			<div class="title" style="float:left;">
+				<h2><a href="/art">最新AV资讯<font size="2" color="#333" style="margin-left:10px;">更多+</font></a></h2>
+			</div>
+			
+		</div>
+		<div class="stui-pannel_bd clearfix">
+			<ul class="stui-vodlist__text clearfix">
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43028.html" title="天美传媒最新拍摄的国产美女在线成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的国产美女在线成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43027.html" title="天美传媒最新拍摄的国外黄色网址成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的国外黄色网址成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43026.html" title="天美传媒最新拍摄的成人视频免费下载成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的成人视频免费下载成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43025.html" title="天美传媒最新拍摄的国产美女性爱成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的国产美女性爱成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43024.html" title="天美传媒最新拍摄的国外黄色视频成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的国外黄色视频成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43023.html" title="天美传媒最新拍摄的国产成人直播成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的国产成人直播成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43022.html" title="天美传媒最新拍摄的成人视频分类成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的成人视频分类成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43021.html" title="天美传媒最新拍摄的国产美女直播成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的国产美女直播成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43020.html" title="天美传媒最新拍摄的在线免费黄色网站成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的在线免费黄色网站成人av视频免费在线播放</a>								
+				</li>
+								<li class="col-xs-2 padding-0">
+
+					<a class="top-line-dot text-overflow" href="/art/detail/id/43019.html" title="天美传媒最新拍摄的成人视频列表成人av视频免费在线播放"><i class="icon iconfont icon-more pull-right  text-muted"></i>天美传媒最新拍摄的成人视频列表成人av视频免费在线播放</a>								
+				</li>
+					
+			</ul>
+		</div>
+		
+	</div>
+</section>
+
+			<section class="section">
+		<div class="wrap" >
+			<div class="block-text"  style="float:left;margin-top:10px;">
+				<h2>友情链接</h2>
+				<div style="font-size:14px;padding-top: 10px;">
+				 
+				</div>
+			</div>
+			<div class="ads" data-group="footer" style="float:left;width:100%"><script type="text/javascript">ad_footer();</script></div>
+		</div>
+	</section><!--友情链接-->	
+            
+		</div>
+			
+		</main>
+			<footer class="footer">
+		<div class="block-footer">
+			<div class="wrap">
+				<div class="flex">
+					<div class="copyright">						
+						<p>Copyright © 2024 天美传媒av视频网. All Rights Reserved. </p>
+						<div style="display: none;"></div>
+												<p>联系邮箱：<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2b494251434a454c1b1c1b6b4c464a424705484446">[email&#160;protected]</a></p>
+												
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/template/tmcmav/statics/js/main5.js"></script>
+	<div style="display:none;"><script type="text/javascript">ad_xf();</script></div>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YTXPL1P8K"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-1YTXPL1P8K');
+	</script>
+	<!--页面底部-->
+		</div>
+	</body>
+</html>
